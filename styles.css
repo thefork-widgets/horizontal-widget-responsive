@@ -1,0 +1,26 @@
+<style type="text/css">
+
+
+@media only screen and (max-width: 590px){
+
+
+
+	/* Formulario contenedor */
+	#form_data > div.content--horizontal-form > fieldset{
+		display: flex;
+	}
+
+	/* Componentes del form */ 
+	.bloc {
+		flex-direction: column;
+		margin-bottom: 5px;
+		width: 100%;
+	}
+
+	.form .form-col--quarter {
+		width: 100%;
+		border-left: none;
+
+	}
+}
+</style>
