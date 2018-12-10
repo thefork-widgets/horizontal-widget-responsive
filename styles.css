@@ -8,11 +8,13 @@
 	/* Formulario contenedor */
 	#form_data > div.content--horizontal-form > fieldset{
 		display: flex;
+		display: -webkit-flex; /* Safari */
 	}
 
 	/* Componentes del form */ 
 	.bloc {
 		flex-direction: column;
+		-webkit-flex-direction: column; /* Safari 6.1+ */
 		margin-bottom: 5px;
 		width: 100%;
 	}
