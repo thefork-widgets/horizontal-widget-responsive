@@ -9,14 +9,14 @@
 	#form_data > div.content--horizontal-form > fieldset{
 		display: flex;
 		display: -webkit-flex; /* Safari */
-		display: -moz-flex: /* < Mozilla 18 */
+		display: -moz-flex: /*  Mozilla 18 */
 	}
 
 	/* Componentes del form */ 
 	.bloc {
 		flex-direction: column;
 		-webkit-flex-direction: column; /* Safari 6.1+ */
-		-moz-flex-direction: column; /* < Mozilla 18 */
+		-moz-flex-direction: column; /*  Mozilla 18 */
 		margin-bottom: 5px;
 		width: 100%;
 	}
