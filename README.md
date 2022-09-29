@@ -1,4 +1,5 @@
-# horizontaWidgetlResponsive
+# horizontal-widget-responsive
+
 How to get responsive the horizontal widget.
 
 
@@ -6,6 +7,6 @@ How to get responsive the horizontal widget.
 
 2 - Paste the restaurant link
 
-3 - Change the the follow text of the widget link: /module/ by /cta/horizontal/
+3 - Replace this text on the widget link: /module/ with /cta/horizontal/
 
 4 - Paste css styles in TFM - Google Analytics
